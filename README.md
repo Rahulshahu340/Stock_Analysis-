@@ -1,70 +1,27 @@
-# Stock_Analysis-
+Stock Market Analysis with Python
+
+📌 Objective
+
+The objective of this project is to analyze stock market trends using historical data from Yahoo Finance and predict future stock prices. By leveraging Python libraries, we aim to:
+
+Extract and visualize stock data for major technology companies.
+
+Perform trend analysis, moving averages, and daily return calculations.
+
+Predict future stock prices using time series forecasting models.
+
+📌 Description
+
+This project focuses on analyzing stock market trends and predicting future stock prices using Python. It utilizes historical stock data from Yahoo Finance for major technology companies such as Apple (AAPL), Google (GOOGL), Amazon (AMZN), and Microsoft (MSFT). The analysis includes stock price visualization, moving averages, daily return calculations, trend analysis, and correlation studies. Additionally, the project implements time series forecasting models to predict stock prices for the upcoming year.
+
+📌 Overview
+
 This project analyzes stock market trends using historical data from Yahoo Finance. We extract data for major technology stocks—Apple (AAPL), Google (GOOGL), Amazon (AMZN), and Microsoft (MSFT)—to visualize trends, compute moving averages, analyze daily returns, and examine stock correlations.
 
-🔥 Features
-
-Fetch real-time stock data from Yahoo Finance 📡
-
-Perform data cleaning & preprocessing 🧹
-
-Visualize stock price trends & volume over time 📈
-
-Compute 50-day & 200-day moving averages 📏
-
-Calculate daily returns & trends 📊
-
-Display trend frequency via Pie Chart 🥧
-
-Analyze stock correlations using a heatmap 🔥
-
-🛠 Tech Stack
-
-Python 🐍
-
-Pandas (for data processing)
-
-Matplotlib & Seaborn (for visualization)
-
-yfinance (to fetch stock data)
-
-🚀 Installation
-
-Clone the repository and install dependencies:
-
-cd Stock-Market-Analysis
-pip install -r requirements.txt
-
-📜 Usage
-
-Run the Python script:
-
-python stock_analysis.py
-
-Or open the Jupyter Notebook:
-
-jupyter notebook Stock_Analysis.ipynb
-
-📊 Results & Visualizations
-
-📉 Stock price trends over time
-
-🔄 Stock trading volume visualization
-
-📏 Moving average comparison
-
-📊 Daily return analysis
-
-🥧 Trend frequency Pie Chart
-
-🔥 Correlation heatmap between stocks
-
-📸 Sample Visualization
-
-🏆 Contributing
-
-Feel free to fork this project, submit pull requests, or raise issues.
+gi
 
 📬 Contact
-Email: rahulsahu.py@gmail.com
 
-🙏 Special thanks to @SeekhoCoding for providing guidance on this project!
+📧 Email: rahulsahu.py@gmail.com📌 GitHub: RahulShahu📌 LinkedIn: Rahul Sahu
+
+⭐ Star this repository if you found it useful!
